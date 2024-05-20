@@ -13,6 +13,10 @@ public class student {
         obj1.details();
 
 
+        //meowwwwwwwwwwwwwwwwwwwwwwwwwww
+        //meow meowwww
+
+
 
 
     }
